@@ -1,4 +1,4 @@
-# Painel com informações sobre o COVID19
+# Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 
 Aplicação PWA criada durante o Bootcamp SPFullStack Developer da Digital Innovation One.
 
